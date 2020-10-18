@@ -9,7 +9,7 @@ This repository is an Analysis of the Twitter accounts of the 2020 US Presidenti
 
 ![trump_all_freq](https://user-images.githubusercontent.com/59103315/96361868-50976e00-10f7-11eb-992f-2c5fdc889601.png)
 
-![trump_freq](https://user-images.githubusercontent.com/59103315/96361870-51300480-10f7-11eb-91b8-cc7eb4c9e0cc.PNG)
+![trump_freq_list](https://user-images.githubusercontent.com/59103315/96361871-51300480-10f7-11eb-84f7-70dc76bf5a0e.PNG)
 
 ## Worcloud of all the Hashtags in the tweets
 
@@ -19,6 +19,5 @@ This repository is an Analysis of the Twitter accounts of the 2020 US Presidenti
 
 ![trump_top_hashtags](https://user-images.githubusercontent.com/59103315/96361874-51c89b00-10f7-11eb-916b-b1655fe71cd0.png)
 
-![trump_freq_list](https://user-images.githubusercontent.com/59103315/96361871-51300480-10f7-11eb-84f7-70dc76bf5a0e.PNG)
-
+![trump_freq](https://user-images.githubusercontent.com/59103315/96361870-51300480-10f7-11eb-91b8-cc7eb4c9e0cc.PNG)
 
